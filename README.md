@@ -1,16 +1,45 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Nikita Gajbhiye</h2>
+<h4 align="center">Aspiring Software Engineer | Data & Development</h4>
 
-<!--
-**Nikita3005/Nikita3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Nikita3005">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> •
+  <a href="https://www.kaggle.com/nikitagajbhiye30">Kaggle</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analyst | Data & Development Enthusiast
+
+---
+
+### Core Skills
+
+**Data Analysis & Visualization**  
+- Advanced Excel (Pivot Tables, Lookups, Data Cleaning)  
+- Power BI (DAX, Dashboards, Reports)  
+
+**Data Handling & Querying**  
+- SQL (Joins, Subqueries, Aggregations, Window Functions)  
+- Python (pandas, numpy, basic data analysis)  
+
+**Analytical Foundations**  
+- Descriptive Statistics  
+- Business Metrics & KPI Analysis  
+- Data Cleaning & Validation  
+
+---
+
+### Projects
+
+- 📊 Sales & business performance dashboards  
+- 📈 Exploratory data analysis on real-world datasets  
+- 📑 Insight-driven reports and visual storytelling  
+
+Explore my repositories to view dashboards, notebooks, and analysis workflows.
+
+---
+
+<p align="center">
+<i>Turning data into insights. Focused on clarity and impact.</i>
+</p>

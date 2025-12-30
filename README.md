@@ -1,10 +1,11 @@
 <h2 align="center">Nikita Gajbhiye</h2>
-<p align="center"><strong>Data Analyst</strong> — Analytics, Visualization & Insights</p>
+<h4 align="center">Data Analyst focused on clarity, insights, and impact</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> •
   <a href="https://www.kaggle.com/nikitagajbhiye30">Kaggle</a>
 </p>
+
 
 
 ---

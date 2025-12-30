@@ -1,15 +1,11 @@
 <h2 align="center">Hi 👋, I'm Nikita Gajbhiye</h2>
-<h4 align="center">Aspiring Software Engineer | Data & Development</h4>
+<h4 align="center">Data Analyst | Data & Development</h4>
 
 <p align="center">
   <a href="https://github.com/Nikita3005">GitHub</a> •
   <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> •
   <a href="https://www.kaggle.com/nikitagajbhiye30">Kaggle</a>
 </p>
-
----
-
-Data Analyst | Data & Development Enthusiast
 
 ---
 

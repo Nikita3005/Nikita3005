@@ -1,10 +1,14 @@
-<h2 align="center">Nikita Gajbhiye</h2>
-<h4 align="center">Data Analyst focused on clarity, insights, and impact</h4>
+<h1 align="center">Nikita Gajbhiye</h1>
+<p align="center">
+  Data Analyst | Turning Data Into Meaningful Insights
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> •
-  <a href="https://www.kaggle.com/nikitagajbhiye30">Kaggle</a>
+  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a> • 
+  <a href="https://www.kaggle.com/nikitagajbhiye30">Kaggle</a> • 
+  <a href="https://github.com/Nikita3005">GitHub</a>
 </p>
+
 
 
 

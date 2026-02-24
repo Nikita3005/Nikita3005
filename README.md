@@ -28,9 +28,13 @@
 
 ### Projects
 
-- 📊 Sales & business performance dashboards  
-- 📈 Exploratory data analysis on real-world datasets  
-- 📑 Insight-driven reports and visual storytelling  
+- 1. Fraud Detection & Risk Modeling  
+     Built classification models on 284K+ transactions handling severe class imbalance.
+- 2. Customer Churn Analytics  
+     Analytics project using SQL, Python, statistical testing and dashboarding.
+- 3. Sales & business performance dashboards  
+- 4. Exploratory data analysis on real-world datasets  
+- 5. Insight-driven reports and visual storytelling  
 
 Explore my repositories to view dashboards, notebooks, and analysis workflows.
 

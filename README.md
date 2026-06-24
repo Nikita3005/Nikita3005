@@ -1,4 +1,4 @@
-````markdown
+
 <!-- Profile README for Nikita Gajbhiye -->
 
 <h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
@@ -61,7 +61,7 @@ class NikitaGajbhiye:
 
     def mission(self):
         return "Turning data into intelligent decisions and impactful AI solutions."
-````
+
 
 ---
 

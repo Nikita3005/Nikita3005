@@ -40,7 +40,7 @@
 
 ---
 
-# 🛠 Tech Arsenal
+#  Tech Arsenal
 
 <p align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-# 🏗 Architecture Blueprint
+#  Architecture Blueprint
 
 ```mermaid
 flowchart LR
@@ -96,7 +96,7 @@ F --> G[Business Decisions]
 
 <td width="50%">
 
-### 📊 Sales Intelligence Dashboard
+###  Sales Intelligence Dashboard
 
 Power BI dashboard for:
 
@@ -113,7 +113,7 @@ Power BI • SQL • Excel
 
 <td width="50%">
 
-### 👥 Customer Analytics Platform
+###  Customer Analytics Platform
 
 Customer analytics solution for:
 
@@ -134,7 +134,7 @@ Python • SQL • Analytics
 
 <td width="50%">
 
-### 🏢 HR Analytics Dashboard
+###  HR Analytics Dashboard
 
 Workforce analytics platform:
 
@@ -151,7 +151,7 @@ Power BI • Excel • SQL
 
 <td width="50%">
 
-### ⚙️ Data Quality Automation
+###  Data Quality Automation
 
 Automated preprocessing system:
 
@@ -171,14 +171,14 @@ Python • Pandas
 
 ---
 
-# 📈 Current Focus
+#  Current Focus
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🔨 Building
+###  Building
 
 * Data Pipelines
 * Analytics Dashboards
@@ -189,7 +189,7 @@ Python • Pandas
 
 <td width="50%">
 
-### 📚 Learning
+###  Learning
 
 * Cloud Data Engineering
 * Advanced SQL
@@ -203,28 +203,30 @@ Python • Pandas
 
 ---
 
-# 📊 GitHub Intelligence Report
+#  GitHub Intelligence Report
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3005&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
+#  Contribution Activity
 
-# 🎯 Engineering Philosophy
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nikita3005/Nikita3005/output/github-contribution-grid-snake.svg" />
+</p>
+
+#  Engineering Philosophy
 
 <table>
 <tr>
 <td>
-
+  
+---
 ### Data → Insights → Decisions
 
 I believe successful analytics starts with clean and reliable data.

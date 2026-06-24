@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
+<h1 align="center">Hi, I'm Nikita Gajbhiye</h1>
 
 <h3 align="center">Data Engineer • Analytics Engineer • ML Practitioner</h3>
 
@@ -8,13 +8,13 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Focus Areas
+###  Focus Areas
 
 * Data Engineering
 * Analytics Engineering
@@ -26,7 +26,7 @@
 
 <td width="50%">
 
-### ⚡ What I Build
+###  What I Build
 
 * ETL Pipelines
 * Analytics Platforms

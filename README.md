@@ -30,7 +30,7 @@ My interest lies in building practical data solutions across:
 
 ## 🏗️ What I Build
 
-```text
+
 Raw Data
    ↓
 Data Cleaning
@@ -72,7 +72,7 @@ Business Insights
 
 ## 🧩 Data Platform Workflow
 
-```text
+
 ┌─────────────────────┐
 │     Data Sources    │
 │ SQL • Excel • CSV   │
@@ -101,7 +101,7 @@ Business Insights
 │ Business Dashboard  │
 │ Power BI • Excel    │
 └─────────────────────┘
-```
+
 
 ---
 
@@ -173,7 +173,7 @@ Built reusable scripts to clean raw datasets, handle missing values, remove dupl
 
 ## 📌 Current Focus
 
-```text
+
 Learning and building around:
 
 • Advanced SQL
@@ -183,7 +183,7 @@ Learning and building around:
 • Data Modeling
 • Machine Learning Workflows
 • Cloud Data Engineering
-```
+
 
 ---
 
@@ -205,7 +205,7 @@ Learning and building around:
 
 ## 🧠 Engineering Mindset
 
-```text
+
 Understand the business problem
         ↓
 Collect and clean the data
@@ -217,7 +217,7 @@ Analyze patterns and trends
 Build dashboards and reports
         ↓
 Deliver insights for decisions
-```
+
 
 ---
 
@@ -244,4 +244,4 @@ Deliver insights for decisions
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
 </p>
-```
+

@@ -192,7 +192,7 @@ Python • Pandas
 ###  Learning
 
 * Cloud Data Engineering
-* Advanced SQL
+* AI 
 * Data Modeling
 * Analytics Engineering
 
@@ -220,6 +220,7 @@ Python • Pandas
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=tokyo-night&hide_border=true&hide_title=true" />
 </p>
 ---
+
 #  Engineering Philosophy
 
 <table>

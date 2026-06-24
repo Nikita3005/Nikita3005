@@ -217,9 +217,10 @@ Python • Pandas
 #  Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nikita3005/Nikita3005/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
 #  Engineering Philosophy
 
 <table>

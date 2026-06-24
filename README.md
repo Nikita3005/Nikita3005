@@ -217,9 +217,8 @@ Python • Pandas
 # Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikita3005&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=tokyo-night&hide_border=true&hide_title=true" />
 </p>
-
 ---
 #  Engineering Philosophy
 

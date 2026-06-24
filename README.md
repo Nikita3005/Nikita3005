@@ -1,168 +1,257 @@
-## 🎛️ Data Engineering Command Center
+# ⚙️ Technical Blueprint
+
+## SYSTEM OVERVIEW
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┌─────────────────────────────────────────┐
+│              NIKITA GAJBHIYE            │
+└─────────────────────────────────────────┘
 
-SYSTEM STATUS        ● ONLINE
+ROLE
+─────────────────────────────────────────
+Data Engineer
 
-ROLE                 Data Engineer
-LOCATION             Gurugram, India
+OBJECTIVE
+─────────────────────────────────────────
+Build scalable data systems that transform
+raw information into business intelligence.
 
-PRIMARY STACK
-├── SQL
-├── Python
-├── Power BI
-└── Excel
-
-CURRENT FOCUS
-├── Data Pipelines
-├── Analytics Systems
-├── Business Intelligence
-└── Machine Learning Workflows
-
-MISSION
-Transform raw data into scalable,
-business-ready intelligence.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STATUS
+─────────────────────────────────────────
+● OPERATIONAL
 
 
 ---
 
-## 🏗️ Active Engineering Areas
+## 🏗️ ARCHITECTURE
 
 
-DATA ENGINEERING      ████████████████░░ 90%
-DATA ANALYTICS        ████████████████░░ 90%
-POWER BI              █████████████████░ 95%
-SQL                   █████████████████░ 95%
-PYTHON                ███████████████░░░ 85%
-MACHINE LEARNING      █████████████░░░░░ 75%
+┌──────────────┐
+│ Data Sources │
+└──────┬───────┘
+       │
+       ▼
 
+┌──────────────┐
+│ SQL          │
+│ Excel        │
+│ APIs         │
+└──────┬───────┘
+       │
+       ▼
 
----
+┌──────────────┐
+│ Python       │
+│ Processing   │
+└──────┬───────┘
+       │
+       ▼
 
-## ⚙️ System Architecture
+┌──────────────┐
+│ Data         │
+│ Modeling     │
+└──────┬───────┘
+       │
+       ▼
 
+┌──────────────┐
+│ Analytics    │
+│ Layer        │
+└──────┬───────┘
+       │
+       ▼
 
-                   Data Sources
-                         │
-                         ▼
-
-          ┌─────────────────────────┐
-          │ SQL • Excel • APIs      │
-          └───────────┬─────────────┘
-                      │
-                      ▼
-
-          ┌─────────────────────────┐
-          │ Python Processing       │
-          └───────────┬─────────────┘
-                      │
-                      ▼
-
-          ┌─────────────────────────┐
-          │ Data Transformation     │
-          └───────────┬─────────────┘
-                      │
-                      ▼
-
-          ┌─────────────────────────┐
-          │ Analytics Layer         │
-          └───────────┬─────────────┘
-                      │
-                      ▼
-
-          ┌─────────────────────────┐
-          │ Power BI Dashboards     │
-          └─────────────────────────┘
+┌──────────────┐
+│ Power BI     │
+│ Dashboards   │
+└──────────────┘
 
 
 ---
 
-## 🚀 Current Projects
+## 🔧 CORE COMPONENTS
 
-### 📊 Sales Intelligence Dashboard
+### Data Engineering
 
-Building interactive business dashboards focused on KPI tracking, revenue trends, and executive reporting.
+Designing data workflows and pipelines for efficient data preparation and transformation.
 
-### 🧹 Data Quality Automation
+### Analytics
 
-Automating data validation, cleansing, and preprocessing workflows using Python.
+Creating meaningful insights through data exploration, KPI tracking, and reporting.
 
-### 📈 Customer Analytics Platform
+### Business Intelligence
 
-Analyzing behavioral data to generate actionable customer insights.
+Developing interactive dashboards that enable data-driven decision making.
 
-### 🤖 Machine Learning Experiments
+### Machine Learning
 
-Exploring predictive analytics and machine learning workflows for business applications.
-
----
-
-## 📚 Currently Exploring
-
-✓ Advanced SQL Optimization
-
-✓ Data Modeling
-
-✓ Cloud Data Engineering
-
-✓ ETL Architecture
-
-✓ Data Warehousing
-
-✓ Machine Learning Pipelines
-
-✓ Analytics Engineering
+Preparing data pipelines and analytical workflows that support predictive models.
 
 ---
 
-## 📊 GitHub Command Dashboard
+## 🚀 DEPLOYED PROJECTS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+### Analytics Dashboard Platform
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3005&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+INPUT
+Business Data
+
+PROCESSING
+SQL + Power BI
+
+OUTPUT
+Executive Dashboards
+
 
 ---
 
-## 🌐 Connect With Me
+### Customer Intelligence System
 
-<p align="center">
 
-<a href="mailto:nikitagajbhiye.ng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+INPUT
+Customer Activity Data
 
-<a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">
-<img src="https://img.shields.io/badge/LinkedIn-Nikita%20Gajbhiye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+PROCESSING
+Python + Analytics
 
-<a href="https://github.com/Nikita3005">
-<img src="https://img.shields.io/badge/GitHub-Nikita3005-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+OUTPUT
+Actionable Customer Insights
 
-</p>
 
 ---
 
-## 💡 Final System Message
+### HR Analytics Solution
 
 
-SYSTEM MESSAGE
+INPUT
+Workforce Data
 
-Good decisions are built on good data.
+PROCESSING
+SQL + Reporting
 
-My goal is not just to collect information,
-but to transform data into reliable insights,
-scalable systems, and measurable business value.
+OUTPUT
+Employee Performance Metrics
 
-STATUS: BUILDING
+
+---
+
+### Data Quality Framework
+
+
+INPUT
+Raw Datasets
+
+PROCESSING
+Validation + Cleaning
+
+OUTPUT
+Reliable Data Assets
+
+
+---
+
+## 📡 ACTIVE MODULES
+
+
+DATA ENGINEERING      ██████████████████
+DATA ANALYTICS        ██████████████████
+POWER BI              ██████████████████
+SQL                   ██████████████████
+PYTHON                ████████████████░
+MACHINE LEARNING      █████████████░░░░
+
+
+---
+
+## 🎯 CURRENT ROADMAP
+
+### Phase 01
+
+Advanced SQL Optimization
+
+STATUS: COMPLETE
+
+---
+
+### Phase 02
+
+Analytics Engineering
+
+STATUS: IN PROGRESS
+
+---
+
+### Phase 03
+
+Cloud Data Engineering
+
+STATUS: ACTIVE
+
+---
+
+### Phase 04
+
+Scalable Data Platforms
+
+STATUS: PLANNED
+
+---
+
+## 📊 SYSTEM METRICS
+
+(Place GitHub Stats)
+
+(Place GitHub Streak)
+
+(Place Top Languages)
+
+---
+
+## 🌐 NETWORK ENDPOINTS
+
+LinkedIn
+
+GitHub
+
+Email
+
+---
+
+## 💡 DESIGN PRINCIPLE
+
+
+DATA
+  ↓
+INFORMATION
+  ↓
+INSIGHTS
+  ↓
+DECISIONS
+  ↓
+IMPACT
+
+
+---
+
+## TERMINAL OUTPUT
+
+
+> system.status()
+
+ONLINE
+
+> current_mission()
+
+Building reliable data systems,
+analytics platforms,
+and business intelligence solutions.
+
+> next_step()
+
+Transform more data into value.
+
+> exit
+
+Session terminated successfully.
+

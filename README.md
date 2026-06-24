@@ -13,55 +13,17 @@
 
 ---
 
-## 🤖 JARVIS SYSTEM PROFILE
+## 🚀 Professional Snapshot
 
-```python
-class NikitaGajbhiye:
+Passionate Data Engineer with expertise in transforming complex datasets into actionable business insights.
 
-    def __init__(self):
-        self.name = "Nikita Gajbhiye"
-        self.role = "Data Engineer"
-        self.location = "Gurugram, Haryana, India"
-        self.company = "Consultadd Inc."
-        self.identity = [
-            "Data Engineer",
-            "Author",
-            "2x Kaggle Expert",
-            "Google Certified",
-            "AI/ML Researcher",
-            "Patent Holder"
-        ]
+With a strong foundation in Data Engineering, Analytics, Machine Learning, and AI Research, I enjoy building scalable solutions that bridge the gap between raw data and intelligent decision-making.
 
-    def current_focus(self):
-        return [
-            "Data Engineering",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Natural Language Processing",
-            "Business Intelligence",
-            "Data Analytics"
-        ]
-
-    def tech_stack(self):
-        return {
-            "Languages": ["Python", "SQL", "Java"],
-            "Data Tools": ["Excel", "Power BI"],
-            "AI/ML": ["Machine Learning", "Deep Learning", "NLP"],
-            "Core Strength": "Transforming data into actionable business insights"
-        }
-
-    def achievements(self):
-        return [
-            "2x Kaggle Expert",
-            "Google Certified",
-            "5 Research Publications",
-            "Patent in Intelligent Cyber Defense Systems",
-            "Deloitte Australia Technology Job Simulation"
-        ]
-
-    def mission(self):
-        return "Turning data into intelligent decisions and impactful AI solutions."
-
+🏆 2x Kaggle Expert
+📚 Research Author
+🛡️ Patent Holder
+☁️ Google Certified
+📊 Data-Driven Problem Solver
 
 ---
 

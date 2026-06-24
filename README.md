@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
 
 <h3 align="center">
@@ -42,7 +42,7 @@ Analysis Layer
 Power BI Dashboards
    ↓
 Business Insights
-````
+
 
 | Area             | What I Work On                                                 |
 | ---------------- | -------------------------------------------------------------- |

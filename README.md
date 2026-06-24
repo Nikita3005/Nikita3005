@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
+<h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
 
 <h3 align="center">Data Engineer • Analytics Engineer • ML Practitioner</h3>
 
@@ -26,7 +26,7 @@
 
 <td width="50%">
 
-### ⚡ What I Enjoy Building
+### ⚡ What I Build
 
 * ETL Pipelines
 * Analytics Platforms
@@ -40,39 +40,41 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Arsenal
 
-### 📊 Data
+<p align="center">
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![CSV](https://img.shields.io/badge/Data-Files-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
-### ⚙️ Processing
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### 📈 Analytics & BI
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
-![Analytics](https://img.shields.io/badge/Analytics-0A66C2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🏗️ Data Platform Architecture
+# 🏗 Architecture Blueprint
 
 ```mermaid
 flowchart LR
 
-A[Data Sources] --> B[Data Collection]
+A[Data Sources]
+--> B[Data Collection]
 
 B --> C[Data Cleaning]
 
@@ -91,18 +93,19 @@ F --> G[Business Decisions]
 
 <table>
 <tr>
+
 <td width="50%">
 
-## 📊 Sales Intelligence Dashboard
+### 📊 Sales Intelligence Dashboard
 
-Power BI dashboard for monitoring:
+Power BI dashboard for:
 
-* Revenue Trends
-* Sales KPIs
-* Regional Performance
+* Revenue Analysis
+* KPI Monitoring
+* Regional Insights
 * Executive Reporting
 
-### Stack
+**Stack**
 
 Power BI • SQL • Excel
 
@@ -110,35 +113,37 @@ Power BI • SQL • Excel
 
 <td width="50%">
 
-## 👥 Customer Analytics Platform
+### 👥 Customer Analytics Platform
 
-Customer behavior analysis platform:
+Customer analytics solution for:
 
 * Segmentation
-* Churn Analysis
-* Customer Insights
-* Trend Discovery
+* Behavioral Analysis
+* Churn Detection
+* Insight Generation
 
-### Stack
+**Stack**
 
 Python • SQL • Analytics
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-## 🏢 HR Analytics Dashboard
+### 🏢 HR Analytics Dashboard
 
-Workforce intelligence solution:
+Workforce analytics platform:
 
-* Attrition Tracking
+* Attrition Analysis
 * Department Metrics
-* Employee Insights
+* Workforce Insights
 * HR Reporting
 
-### Stack
+**Stack**
 
 Power BI • Excel • SQL
 
@@ -146,81 +151,89 @@ Power BI • Excel • SQL
 
 <td width="50%">
 
-## ⚙️ Data Quality Automation
+### ⚙️ Data Quality Automation
 
-Automated data preparation system:
+Automated preprocessing system:
 
 * Validation
 * Cleaning
 * Standardization
 * Reporting
 
-### Stack
+**Stack**
 
 Python • Pandas
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📍 Current Focus
+# 📈 Current Focus
 
-```text
-Building
-│
-├── Data Pipelines
-├── Analytics Dashboards
-├── Reporting Automation
-└── Business Intelligence Solutions
+<table>
+<tr>
 
-Learning
-│
-├── Cloud Data Engineering
-├── Advanced SQL
-├── Data Modeling
-└── Analytics Engineering
-```
+<td width="50%">
+
+### 🔨 Building
+
+* Data Pipelines
+* Analytics Dashboards
+* Reporting Automation
+* BI Solutions
+
+</td>
+
+<td width="50%">
+
+### 📚 Learning
+
+* Cloud Data Engineering
+* Advanced SQL
+* Data Modeling
+* Analytics Engineering
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Intelligence Report
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3005&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3005&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🎯 Engineering Philosophy
 
-```text
-Collect Data
-      ↓
+<table>
+<tr>
+<td>
 
-Clean Data
-      ↓
+### Data → Insights → Decisions
 
-Transform Data
-      ↓
+I believe successful analytics starts with clean and reliable data.
 
-Analyze Data
-      ↓
+My focus is building systems that help organizations move from information overload to actionable insights.
 
-Generate Insights
-      ↓
-
-Enable Better Decisions
-```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -244,27 +257,9 @@ Enable Better Decisions
 
 ---
 
-# 💡 System Status
+# 💡 Final System Message
 
-```text
-SYSTEM STATUS : ONLINE
-
-MISSION
-Build scalable data systems that transform
-complex information into business value.
-
-CURRENT FOCUS
-• Data Engineering
-• Analytics
-• Automation
-
-NEXT OBJECTIVE
-Cloud-Native Data Platforms
-
-STATUS : BUILDING
-```
-
----
+> Building scalable data systems, analytics platforms, and business intelligence solutions that transform complex information into measurable business value.
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:5B42F3&section=footer"/>

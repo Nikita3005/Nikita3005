@@ -1,257 +1,271 @@
-# ⚙️ Technical Blueprint
+# <h1 align="center">Hi 👋, I'm Nikita Gajbhiye</h1>
 
-## SYSTEM OVERVIEW
+<h3 align="center">Data Engineer • Analytics Engineer • ML Practitioner</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Data+Platforms;Designing+Analytics+Systems;Creating+Business+Intelligence+Solutions;Transforming+Data+Into+Decisions" />
+</p>
 
-┌─────────────────────────────────────────┐
-│              NIKITA GAJBHIYE            │
-└─────────────────────────────────────────┘
+---
 
-ROLE
-─────────────────────────────────────────
-Data Engineer
+# 🚀 About Me
 
-OBJECTIVE
-─────────────────────────────────────────
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Focus Areas
+
+* Data Engineering
+* Analytics Engineering
+* Business Intelligence
+* Machine Learning Workflows
+* Reporting Automation
+
+</td>
+
+<td width="50%">
+
+### ⚡ What I Enjoy Building
+
+* ETL Pipelines
+* Analytics Platforms
+* KPI Dashboards
+* Data Products
+* Automated Reporting Systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 📊 Data
+
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![CSV](https://img.shields.io/badge/Data-Files-blue?style=for-the-badge)
+
+### ⚙️ Processing
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+
+### 📈 Analytics & BI
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi)
+![Analytics](https://img.shields.io/badge/Analytics-0A66C2?style=for-the-badge)
+
+### 🤖 Machine Learning
+
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+
+---
+
+# 🏗️ Data Platform Architecture
+
+```mermaid
+flowchart LR
+
+A[Data Sources] --> B[Data Collection]
+
+B --> C[Data Cleaning]
+
+C --> D[Data Transformation]
+
+D --> E[Analytics Layer]
+
+E --> F[Dashboards]
+
+F --> G[Business Decisions]
+```
+
+---
+
+# 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## 📊 Sales Intelligence Dashboard
+
+Power BI dashboard for monitoring:
+
+* Revenue Trends
+* Sales KPIs
+* Regional Performance
+* Executive Reporting
+
+### Stack
+
+Power BI • SQL • Excel
+
+</td>
+
+<td width="50%">
+
+## 👥 Customer Analytics Platform
+
+Customer behavior analysis platform:
+
+* Segmentation
+* Churn Analysis
+* Customer Insights
+* Trend Discovery
+
+### Stack
+
+Python • SQL • Analytics
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🏢 HR Analytics Dashboard
+
+Workforce intelligence solution:
+
+* Attrition Tracking
+* Department Metrics
+* Employee Insights
+* HR Reporting
+
+### Stack
+
+Power BI • Excel • SQL
+
+</td>
+
+<td width="50%">
+
+## ⚙️ Data Quality Automation
+
+Automated data preparation system:
+
+* Validation
+* Cleaning
+* Standardization
+* Reporting
+
+### Stack
+
+Python • Pandas
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📍 Current Focus
+
+```text
+Building
+│
+├── Data Pipelines
+├── Analytics Dashboards
+├── Reporting Automation
+└── Business Intelligence Solutions
+
+Learning
+│
+├── Cloud Data Engineering
+├── Advanced SQL
+├── Data Modeling
+└── Analytics Engineering
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikita3005&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita3005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🎯 Engineering Philosophy
+
+```text
+Collect Data
+      ↓
+
+Clean Data
+      ↓
+
+Transform Data
+      ↓
+
+Analyze Data
+      ↓
+
+Generate Insights
+      ↓
+
+Enable Better Decisions
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nikitagajbhiye.ng@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">
+<img src="https://img.shields.io/badge/LinkedIn-Nikita_Gajbhiye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Nikita3005">
+<img src="https://img.shields.io/badge/GitHub-Nikita3005-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 System Status
+
+```text
+SYSTEM STATUS : ONLINE
+
+MISSION
 Build scalable data systems that transform
-raw information into business intelligence.
+complex information into business value.
 
-STATUS
-─────────────────────────────────────────
-● OPERATIONAL
+CURRENT FOCUS
+• Data Engineering
+• Analytics
+• Automation
 
+NEXT OBJECTIVE
+Cloud-Native Data Platforms
 
----
-
-## 🏗️ ARCHITECTURE
-
-
-┌──────────────┐
-│ Data Sources │
-└──────┬───────┘
-       │
-       ▼
-
-┌──────────────┐
-│ SQL          │
-│ Excel        │
-│ APIs         │
-└──────┬───────┘
-       │
-       ▼
-
-┌──────────────┐
-│ Python       │
-│ Processing   │
-└──────┬───────┘
-       │
-       ▼
-
-┌──────────────┐
-│ Data         │
-│ Modeling     │
-└──────┬───────┘
-       │
-       ▼
-
-┌──────────────┐
-│ Analytics    │
-│ Layer        │
-└──────┬───────┘
-       │
-       ▼
-
-┌──────────────┐
-│ Power BI     │
-│ Dashboards   │
-└──────────────┘
-
+STATUS : BUILDING
+```
 
 ---
 
-## 🔧 CORE COMPONENTS
-
-### Data Engineering
-
-Designing data workflows and pipelines for efficient data preparation and transformation.
-
-### Analytics
-
-Creating meaningful insights through data exploration, KPI tracking, and reporting.
-
-### Business Intelligence
-
-Developing interactive dashboards that enable data-driven decision making.
-
-### Machine Learning
-
-Preparing data pipelines and analytical workflows that support predictive models.
-
----
-
-## 🚀 DEPLOYED PROJECTS
-
-### Analytics Dashboard Platform
-
-
-INPUT
-Business Data
-
-PROCESSING
-SQL + Power BI
-
-OUTPUT
-Executive Dashboards
-
-
----
-
-### Customer Intelligence System
-
-
-INPUT
-Customer Activity Data
-
-PROCESSING
-Python + Analytics
-
-OUTPUT
-Actionable Customer Insights
-
-
----
-
-### HR Analytics Solution
-
-
-INPUT
-Workforce Data
-
-PROCESSING
-SQL + Reporting
-
-OUTPUT
-Employee Performance Metrics
-
-
----
-
-### Data Quality Framework
-
-
-INPUT
-Raw Datasets
-
-PROCESSING
-Validation + Cleaning
-
-OUTPUT
-Reliable Data Assets
-
-
----
-
-## 📡 ACTIVE MODULES
-
-
-DATA ENGINEERING      ██████████████████
-DATA ANALYTICS        ██████████████████
-POWER BI              ██████████████████
-SQL                   ██████████████████
-PYTHON                ████████████████░
-MACHINE LEARNING      █████████████░░░░
-
-
----
-
-## 🎯 CURRENT ROADMAP
-
-### Phase 01
-
-Advanced SQL Optimization
-
-STATUS: COMPLETE
-
----
-
-### Phase 02
-
-Analytics Engineering
-
-STATUS: IN PROGRESS
-
----
-
-### Phase 03
-
-Cloud Data Engineering
-
-STATUS: ACTIVE
-
----
-
-### Phase 04
-
-Scalable Data Platforms
-
-STATUS: PLANNED
-
----
-
-## 📊 SYSTEM METRICS
-
-(Place GitHub Stats)
-
-(Place GitHub Streak)
-
-(Place Top Languages)
-
----
-
-## 🌐 NETWORK ENDPOINTS
-
-LinkedIn
-
-GitHub
-
-Email
-
----
-
-## 💡 DESIGN PRINCIPLE
-
-
-DATA
-  ↓
-INFORMATION
-  ↓
-INSIGHTS
-  ↓
-DECISIONS
-  ↓
-IMPACT
-
-
----
-
-## TERMINAL OUTPUT
-
-
-> system.status()
-
-ONLINE
-
-> current_mission()
-
-Building reliable data systems,
-analytics platforms,
-and business intelligence solutions.
-
-> next_step()
-
-Transform more data into value.
-
-> exit
-
-Session terminated successfully.
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:36BCF7,100:5B42F3&section=footer"/>
+</p>

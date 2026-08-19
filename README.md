@@ -21,7 +21,7 @@
 
 ---
 
-## Profile
+## 👤 Profile
 
 I work at the intersection of **data science, machine learning, and data engineering**, with an interest in building systems that are not only predictive, but also **reliable, interpretable, reproducible, and useful in practice**.
 
@@ -37,13 +37,13 @@ Data  →  Representation  →  Models  →  Evaluation  →  Systems  →  Deci
 
 ---
 
-## Selected Work
+## 🚀 Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### TaintGate
+### 🛡️ TaintGate
 
 **Provenance-aware runtime security for AI agents**
 
@@ -60,7 +60,7 @@ Explores how untrusted information can be tracked through agent workflows and in
 </td>
 <td width="50%" valign="top">
 
-### Enterprise Customer Intelligence
+### 🧠 Enterprise Customer Intelligence
 
 **End-to-end machine learning system**
 
@@ -80,7 +80,7 @@ A production-oriented ML project covering feature engineering, model comparison,
 <tr>
 <td width="50%" valign="top">
 
-### Supply Chain Risk Intelligence
+### 🌍 Supply Chain Risk Intelligence
 
 **Applied data science for operational risk**
 
@@ -97,7 +97,7 @@ Transforms supply-chain and operational data into structured signals for risk an
 </td>
 <td width="50%" valign="top">
 
-### HealthLynked Provider Pipeline
+### 🏥 HealthLynked Provider Pipeline
 
 **Reliable healthcare data processing**
 
@@ -117,7 +117,7 @@ A data-engineering pipeline centered on ingestion, validation, transformation, a
 <tr>
 <td width="50%" valign="top">
 
-### Fraud Detection & Risk Modeling
+### 💳 Fraud Detection & Risk Modeling
 
 **Machine learning for predictive risk**
 
@@ -130,7 +130,7 @@ Investigates patterns associated with fraudulent behavior and develops predictiv
 </td>
 <td width="50%" valign="top">
 
-### Customer Churn Analytics
+### 📈 Customer Churn Analytics
 
 **Behavioral modeling and customer analytics**
 
@@ -146,27 +146,27 @@ Examines customer behavior, develops predictive features, and models factors ass
 
 ---
 
-## Research & Technical Interests
+## 🔬 Research & Technical Interests
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Statistical Learning
+### 📐 Statistical Learning
 
 Model evaluation, generalization, predictive modeling, feature design, and the assumptions underlying data-driven methods.
 
 </td>
 <td width="33%" valign="top">
 
-### Data-Centric ML
+### 🧩 Data-Centric ML
 
 Data quality, representation, provenance, validation, and how upstream decisions affect downstream model behavior.
 
 </td>
 <td width="33%" valign="top">
 
-### Responsible AI
+### ⚖️ Responsible AI
 
 Interpretability, reliability, provenance, runtime safeguards, and the behavior of ML and AI systems after deployment.
 
@@ -180,7 +180,7 @@ Additional areas I am actively exploring:
 
 ---
 
-## Technical Foundation
+## 🧰 Technical Foundation
 
 <table>
 <tr>
@@ -217,7 +217,7 @@ Additional areas I am actively exploring:
 
 ---
 
-## How I Approach Data Science
+## 🧭 How I Approach Data Science
 
 ```mermaid
 flowchart LR
@@ -246,7 +246,7 @@ For me, a successful data science project is not simply one with a high evaluati
 
 ---
 
-## Current Direction
+## 🎯 Current Direction
 
 My work is increasingly converging around three themes:
 
@@ -263,7 +263,7 @@ These areas motivate my broader interest in advanced study across **data science
 
 ---
 
-## Project Progression
+## 📚 Project Progression
 
 ```text
 Analytics & BI
@@ -287,7 +287,7 @@ My repositories reflect this progression: from analytics and programming foundat
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img
@@ -299,7 +299,7 @@ My repositories reflect this progression: from analytics and programming foundat
 
 ---
 
-## Principles
+## 🧠 Principles
 
 > **Good data science begins before the model and continues after deployment.**
 

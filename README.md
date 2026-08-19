@@ -1,297 +1,326 @@
-<h1 align="center">Nikita Gajbhiye</h1>
+<!-- =========================================================
+     NIKITA GAJBHIYE — GITHUB PROFILE
+     Data Science • Machine Learning • Data Engineering
+========================================================== -->
 
-<h3 align="center">Data Science • Machine Learning • Data Engineering</h3>
+<div align="center">
+
+# Nikita Gajbhiye
+
+### Data Science · Machine Learning · Data Engineering
+
+**Building reliable data systems, interpretable machine learning models, and responsible AI systems.**
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Gajbhiye-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nikita-gajbhiye-101782264)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:nikitagajbhiye.ng@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nikita3005-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Nikita3005)
+
+</div>
+
+---
+
+## Profile
+
+I work at the intersection of **data science, machine learning, and data engineering**, with an interest in building systems that are not only predictive, but also **reliable, interpretable, reproducible, and useful in practice**.
+
+My projects span the complete data lifecycle — from ingestion and validation to feature engineering, modeling, evaluation, explainability, and deployment.
+
+More recently, I have been exploring **AI-agent security and data provenance**, particularly how untrusted information propagates through autonomous systems and how runtime policies can make those systems safer.
+
+```text
+Data  →  Representation  →  Models  →  Evaluation  →  Systems  →  Decisions
+          ↑                   ↑            ↑             ↑
+       Quality            Learning    Explainability  Reliability
+```
+
+---
+
+## Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### TaintGate
+
+**Provenance-aware runtime security for AI agents**
+
+Explores how untrusted information can be tracked through agent workflows and incorporated into deterministic security decisions.
+
+`Python` `AI Agents` `MCP` `Provenance` `Policy`
+
+**Core idea**
+
+`untrusted input → provenance → policy → ALLOW / REVIEW / BLOCK`
+
+[Explore TaintGate →](https://github.com/Nikita3005/taintgate)
+
+</td>
+<td width="50%" valign="top">
+
+### Enterprise Customer Intelligence
+
+**End-to-end machine learning system**
+
+A production-oriented ML project covering feature engineering, model comparison, explainability, experiment tracking, serving, and testing.
+
+`Python` `XGBoost` `LightGBM` `SHAP` `MLflow` `FastAPI`
+
+**Focus**
+
+`features → models → evaluation → explanation → serving`
+
+[Explore the platform →](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Supply Chain Risk Intelligence
+
+**Applied data science for operational risk**
+
+Transforms supply-chain and operational data into structured signals for risk analysis and decision support.
+
+`Data Science` `Feature Engineering` `Risk Analytics`
+
+**Focus**
+
+`operational data → risk signals → decision intelligence`
+
+[Explore the project →](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)
+
+</td>
+<td width="50%" valign="top">
+
+### HealthLynked Provider Pipeline
+
+**Reliable healthcare data processing**
+
+A data-engineering pipeline centered on ingestion, validation, transformation, and data-quality workflows for provider data.
+
+`Python` `ETL` `Validation` `Data Quality`
+
+**Focus**
+
+`ingestion → validation → transformation → trusted data`
+
+[Explore the pipeline →](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Fraud Detection & Risk Modeling
+
+**Machine learning for predictive risk**
+
+Investigates patterns associated with fraudulent behavior and develops predictive models for risk estimation.
+
+`Classification` `Feature Engineering` `Model Evaluation`
+
+[Explore the project →](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)
+
+</td>
+<td width="50%" valign="top">
+
+### Customer Churn Analytics
+
+**Behavioral modeling and customer analytics**
+
+Examines customer behavior, develops predictive features, and models factors associated with customer churn.
+
+`EDA` `Classification` `Feature Engineering` `Analytics`
+
+[Explore the project →](https://github.com/Nikita3005/Customer-Churn-Analytics)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Research & Technical Interests
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Statistical Learning
+
+Model evaluation, generalization, predictive modeling, feature design, and the assumptions underlying data-driven methods.
+
+</td>
+<td width="33%" valign="top">
+
+### Data-Centric ML
+
+Data quality, representation, provenance, validation, and how upstream decisions affect downstream model behavior.
+
+</td>
+<td width="33%" valign="top">
+
+### Responsible AI
+
+Interpretability, reliability, provenance, runtime safeguards, and the behavior of ML and AI systems after deployment.
+
+</td>
+</tr>
+</table>
+
+Additional areas I am actively exploring:
+
+`ML Systems` · `Explainable AI` · `Data Engineering` · `AI Agents` · `Model Reliability` · `Decision Intelligence`
+
+---
+
+## Technical Foundation
+
+<table>
+<tr>
+<td width="22%"><b>Programming</b></td>
+<td>Python · SQL</td>
+</tr>
+<tr>
+<td><b>Data</b></td>
+<td>Pandas · NumPy · ETL · Data Validation · Feature Engineering</td>
+</tr>
+<tr>
+<td><b>Machine Learning</b></td>
+<td>Scikit-learn · XGBoost · LightGBM · Model Evaluation</td>
+</tr>
+<tr>
+<td><b>Interpretability</b></td>
+<td>SHAP · Feature Analysis · Model Explanation</td>
+</tr>
+<tr>
+<td><b>ML Engineering</b></td>
+<td>FastAPI · MLflow · Docker · REST APIs · Model Serving</td>
+</tr>
+<tr>
+<td><b>Analytics</b></td>
+<td>Power BI · Excel · Exploratory Data Analysis · Visualization</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-Building reliable, interpretable, and data-driven systems across machine learning, data engineering, analytics, and responsible AI.
-</p>
-
-<p align="center">
-  <a href="mailto:nikitagajbhiye.ng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikita_Gajbhiye-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Nikita3005">
-    <img src="https://img.shields.io/badge/GitHub-Nikita3005-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker,git,github&theme=dark" alt="Core technologies" />
 </p>
 
 ---
 
-## About Me
-
-I am interested in applying **data science, statistical learning, and computational methods** to complex real-world problems.
-
-My work spans the full data lifecycle:
-
-**Data Collection → Validation → Transformation → Feature Engineering → Modeling → Evaluation → Deployment → Decision Support**
-
-I enjoy building systems that combine strong analytical foundations with practical engineering.
-
-My current interests include:
-
-* Machine Learning & Statistical Modeling
-* Data Engineering & Data Quality
-* Applied Data Science
-* Explainable & Responsible AI
-* ML Systems & Model Deployment
-* AI Agents, Provenance & Runtime Security
-
----
-
-## Selected Projects
-
-### 🛡️ TaintGate
-
-**Provenance-Aware Runtime Security for AI Agents**
-
-A security-focused system exploring how untrusted information propagates through AI-agent workflows and how provenance-aware policies can enforce deterministic runtime decisions.
-
-**Key Areas**
-
-`AI Agents` • `Provenance Tracking` • `Policy Enforcement` • `Runtime Security` • `MCP`
-
-**Decision Model**
-
-`ALLOW → REVIEW → BLOCK`
-
-[View Repository](https://github.com/Nikita3005/taintgate)
-
----
-
-### 🧠 Enterprise Customer Intelligence Platform
-
-An end-to-end machine learning platform designed around the complete ML lifecycle rather than model training alone.
-
-**Key Areas**
-
-* Feature Engineering
-* Supervised Machine Learning
-* XGBoost & LightGBM
-* SHAP Explainability
-* MLflow Experiment Tracking
-* FastAPI Model Serving
-* Automated Testing
-* Containerized Workflows
-
-**Focus**
-
-`Machine Learning` • `Explainable AI` • `MLOps` • `Model Serving`
-
-[View Repository](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)
-
----
-
-### 🌍 Global Supply Chain Risk Intelligence Platform
-
-Applied data science project focused on transforming operational and supply-chain data into structured risk signals and decision-ready intelligence.
-
-**Focus**
-
-`Data Processing` • `Feature Engineering` • `Risk Analytics` • `Decision Intelligence`
-
-[View Repository](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)
-
----
-
-### 🏥 HealthLynked Provider Pipeline
-
-A data engineering project focused on building a reliable processing pipeline for healthcare provider data.
-
-**Key Areas**
-
-* Data Ingestion
-* Validation
-* Cleaning
-* Transformation
-* Data Quality
-* Reproducible Processing
-
-**Focus**
-
-`Data Engineering` • `ETL` • `Healthcare Data` • `Data Quality`
-
-[View Repository](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)
-
----
-
-### 💳 Fraud Detection & Risk Modeling
-
-Applied machine learning project focused on identifying suspicious patterns and translating transactional data into predictive risk signals.
-
-**Focus**
-
-`Classification` • `Feature Engineering` • `Model Evaluation` • `Risk Modeling`
-
-[View Repository](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)
-
----
-
-### 📈 Customer Churn Analytics
-
-Machine learning and analytics project exploring customer behavior and factors associated with churn.
-
-**Focus**
-
-`Exploratory Data Analysis` • `Feature Engineering` • `Classification` • `Customer Analytics`
-
-[View Repository](https://github.com/Nikita3005/Customer-Churn-Analytics)
-
----
-
-## Technical Toolkit
-
-### Programming & Data
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-</p>
-
-### Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-Machine_Learning-orange?style=flat-square" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-Machine_Learning-02569B?style=flat-square" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/SHAP-Explainability-8A2BE2?style=flat-square" alt="SHAP"/>
-</p>
-
-### ML Systems & Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
-</p>
-
-### Analytics
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-</p>
-
----
-
-## From Data to Decisions
+## How I Approach Data Science
 
 ```mermaid
 flowchart LR
-    A[Raw Data] --> B[Validation]
-    B --> C[Transformation]
-    C --> D[Feature Engineering]
-    D --> E[Modeling]
-    E --> F[Evaluation]
-    F --> G[Explainability]
-    G --> H[Deployment]
-    H --> I[Decision Support]
+    A["Problem"] --> B["Data"]
+    B --> C["Validation"]
+    C --> D["Features"]
+    D --> E["Model"]
+    E --> F["Evaluation"]
+    F --> G["Interpretation"]
+    G --> H["Deployment"]
+    H --> I["Observation"]
+
+    I -. feedback .-> B
 ```
 
-I am particularly interested in what happens **between a dataset and a decision**:
+I am particularly interested in the questions hidden between **data and decisions**:
 
-* How does data quality affect downstream models?
-* How do features encode assumptions?
-* How reliably does a model generalize?
-* How should predictions be interpreted?
-* How should ML systems behave after deployment?
+* What assumptions are encoded in the data?
+* How does data quality influence model behavior?
+* Does a model generalize beyond the training distribution?
+* Which signals drive its predictions?
+* How should uncertainty and errors be interpreted?
+* What changes once a model becomes part of a larger system?
 
----
-
-## Research & Academic Interests
-
-### Machine Learning & Statistical Learning
-
-Understanding how predictive models generalize, how they should be evaluated, and how statistical reasoning can improve machine learning systems.
-
-### Data-Centric AI
-
-Studying how data quality, representation, provenance, labeling, and feature construction influence downstream model behavior.
-
-### Explainable & Responsible AI
-
-Exploring methods for building machine learning systems that are interpretable, reliable, and aligned with their intended use.
-
-### Reliable ML Systems
-
-Understanding the complete lifecycle of machine learning systems, including experimentation, deployment, monitoring, reproducibility, and evaluation.
-
-### AI Agent Security
-
-Exploring provenance, policy enforcement, and runtime safeguards for increasingly autonomous AI systems.
+For me, a successful data science project is not simply one with a high evaluation score. It should be **methodologically sound, reproducible, interpretable, and connected to the problem it is intended to solve**.
 
 ---
 
-## Engineering Approach
+## Current Direction
+
+My work is increasingly converging around three themes:
+
+**01 — Data as infrastructure**
+Building reliable pipelines and treating data quality as part of system design rather than a preprocessing afterthought.
+
+**02 — Machine learning as a system**
+Thinking beyond model training toward evaluation, explainability, reproducibility, APIs, deployment, and monitoring.
+
+**03 — Reliability in emerging AI systems**
+Exploring provenance and deterministic runtime controls for AI agents operating on potentially untrusted information.
+
+These areas motivate my broader interest in advanced study across **data science, machine learning, statistical methods, and reliable AI systems**.
+
+---
+
+## Project Progression
 
 ```text
-Understand the Problem
-        ↓
-Inspect the Data
-        ↓
-Question Assumptions
-        ↓
-Build Reproducible Pipelines
-        ↓
-Model & Evaluate
-        ↓
-Interpret Results
-        ↓
-Deploy When Appropriate
-        ↓
-Measure Real-World Behavior
+Analytics & BI
+      │
+      ▼
+Applied Data Science
+      │
+      ▼
+Machine Learning
+      │
+      ├──────────────► Data Engineering
+      │
+      ▼
+Production ML Systems
+      │
+      ▼
+Responsible & Secure AI
 ```
 
-I view data science as more than optimizing a model metric.
-
-A useful system should be **methodologically sound, reproducible, interpretable, and connected to the problem it is intended to solve**.
+My repositories reflect this progression: from analytics and programming foundations toward increasingly complete systems involving **data pipelines, predictive modeling, explainability, model serving, and AI-system reliability**.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=github_dark&hide_border=true" alt="Nikita's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=github-compact&hide_border=true&hide_title=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=github-compact&hide_border=true&hide_title=true&area=true"
+    width="95%"
+    alt="Nikita Gajbhiye GitHub contribution activity"
+  />
 </p>
 
 ---
 
-## Continuous Growth
+## Principles
 
-I use GitHub as a record of my progression from **programming and analytics fundamentals** toward increasingly complete work in **data science, machine learning, data engineering, and AI systems**.
+> **Good data science begins before the model and continues after deployment.**
 
-My goal is not simply to build more projects, but to continuously improve how I:
+I value:
 
-* formulate problems,
-* work with data,
-* evaluate evidence,
-* design experiments,
-* interpret models, and
-* build reliable computational systems.
+**rigorous analysis** · **reproducible workflows** · **clear assumptions** · **interpretable results** · **reliable systems**
 
 ---
 
-<p align="center">
-  <b>Data Science • Machine Learning • Data Engineering • Responsible AI</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Building data-driven systems that are useful, interpretable, reproducible, and reliable.</i>
-</p>
+### Nikita Gajbhiye
 
-<p align="center">
-  <a href="mailto:nikitagajbhiye.ng@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/Nikita3005">GitHub</a>
-</p>
+Data Science · Machine Learning · Data Engineering · Responsible AI
+
+*Interested in building data-driven systems that are rigorous, interpretable, and reliable.*
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264) ·
+[Email](mailto:nikitagajbhiye.ng@gmail.com) ·
+[GitHub](https://github.com/Nikita3005)
+
+</div>

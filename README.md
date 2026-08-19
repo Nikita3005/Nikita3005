@@ -1,22 +1,20 @@
 <h1 align="center">Nikita Gajbhiye</h1>
 
-<p align="center">
-  <b>Data Science • Machine Learning • Data Engineering</b>
-</p>
+<h3 align="center">Data Science • Machine Learning • Data Engineering</h3>
 
 <p align="center">
-  Building data-driven systems at the intersection of machine learning, data engineering, analytics, and responsible AI.
+Building reliable, interpretable, and data-driven systems across machine learning, data engineering, analytics, and responsible AI.
 </p>
 
 <p align="center">
   <a href="mailto:nikitagajbhiye.ng@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikita_Gajbhiye-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nikita_Gajbhiye-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Nikita3005">
-    <img src="https://img.shields.io/badge/GitHub-Nikita3005-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Nikita3005-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -24,141 +22,160 @@
 
 ## About Me
 
-I am interested in using **data, statistical learning, and computational systems** to understand complex problems and build reliable, interpretable solutions.
+I am interested in applying **data science, statistical learning, and computational methods** to complex real-world problems.
 
-My work spans the full data lifecycle — from **data collection and validation** to **feature engineering, machine learning, model evaluation, deployment, and decision-oriented analytics**.
+My work spans the full data lifecycle:
 
-More recently, I have been exploring **AI-agent security and data provenance**, particularly how untrusted information propagates through autonomous systems and how deterministic policies can make those systems safer.
+**Data Collection → Validation → Transformation → Feature Engineering → Modeling → Evaluation → Deployment → Decision Support**
 
-My broader interests include:
+I enjoy building systems that combine strong analytical foundations with practical engineering.
+
+My current interests include:
 
 * Machine Learning & Statistical Modeling
 * Data Engineering & Data Quality
 * Applied Data Science
 * Explainable & Responsible AI
 * ML Systems & Model Deployment
-* AI Agents, Provenance & Runtime Safety
+* AI Agents, Provenance & Runtime Security
 
 ---
 
 ## Selected Projects
 
-### 🛡️ TaintGate — Provenance-Aware Runtime Security for AI Agents
+### 🛡️ TaintGate
 
-A security-oriented system exploring how provenance can be tracked through AI-agent workflows and used to make deterministic runtime decisions.
+**Provenance-Aware Runtime Security for AI Agents**
 
-**Key ideas:** provenance tracking · policy enforcement · AI agents · MCP · runtime security · security testing
+A security-focused system exploring how untrusted information propagates through AI-agent workflows and how provenance-aware policies can enforce deterministic runtime decisions.
 
-**Decision model:** `ALLOW → REVIEW → BLOCK`
+**Key Areas**
 
-[View Project](https://github.com/Nikita3005/taintgate)
+`AI Agents` • `Provenance Tracking` • `Policy Enforcement` • `Runtime Security` • `MCP`
+
+**Decision Model**
+
+`ALLOW → REVIEW → BLOCK`
+
+[View Repository](https://github.com/Nikita3005/taintgate)
 
 ---
 
 ### 🧠 Enterprise Customer Intelligence Platform
 
-An end-to-end machine learning system for customer intelligence, designed around the broader ML lifecycle rather than model training alone.
+An end-to-end machine learning platform designed around the complete ML lifecycle rather than model training alone.
 
-The project explores:
+**Key Areas**
 
-* Feature engineering
-* Supervised machine learning
-* XGBoost and LightGBM
-* Model evaluation
-* SHAP-based explainability
-* MLflow experiment tracking
-* FastAPI model serving
-* Automated testing
-* Containerized workflows
+* Feature Engineering
+* Supervised Machine Learning
+* XGBoost & LightGBM
+* SHAP Explainability
+* MLflow Experiment Tracking
+* FastAPI Model Serving
+* Automated Testing
+* Containerized Workflows
 
-**Focus:** Machine Learning · Explainable AI · MLOps · Model Serving
+**Focus**
 
-[View Project](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)
+`Machine Learning` • `Explainable AI` • `MLOps` • `Model Serving`
+
+[View Repository](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)
 
 ---
 
 ### 🌍 Global Supply Chain Risk Intelligence Platform
 
-Applied data science project exploring how heterogeneous operational data can be transformed into structured signals for supply-chain risk analysis.
+Applied data science project focused on transforming operational and supply-chain data into structured risk signals and decision-ready intelligence.
 
-**Focus:** Data Processing · Feature Engineering · Risk Analytics · Decision Intelligence
+**Focus**
 
-[View Project](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)
+`Data Processing` • `Feature Engineering` • `Risk Analytics` • `Decision Intelligence`
+
+[View Repository](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)
 
 ---
 
 ### 🏥 HealthLynked Provider Pipeline
 
-Data engineering project centered on building a reliable processing pipeline for healthcare provider data.
+A data engineering project focused on building a reliable processing pipeline for healthcare provider data.
 
-The project emphasizes:
+**Key Areas**
 
-* Data ingestion
+* Data Ingestion
 * Validation
 * Cleaning
 * Transformation
-* Data quality
-* Reproducible processing
+* Data Quality
+* Reproducible Processing
 
-**Focus:** Data Engineering · ETL · Healthcare Data · Data Quality
+**Focus**
 
-[View Project](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)
+`Data Engineering` • `ETL` • `Healthcare Data` • `Data Quality`
+
+[View Repository](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)
 
 ---
 
 ### 💳 Fraud Detection & Risk Modeling
 
-Applied machine learning project investigating patterns associated with fraudulent activity and translating them into predictive risk models.
+Applied machine learning project focused on identifying suspicious patterns and translating transactional data into predictive risk signals.
 
-**Focus:** Classification · Feature Engineering · Model Evaluation · Risk Modeling
+**Focus**
 
-[View Project](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)
+`Classification` • `Feature Engineering` • `Model Evaluation` • `Risk Modeling`
+
+[View Repository](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)
 
 ---
 
 ### 📈 Customer Churn Analytics
 
-Machine learning and analytics project examining customer behavior and factors associated with churn.
+Machine learning and analytics project exploring customer behavior and factors associated with churn.
 
-**Focus:** Exploratory Data Analysis · Feature Engineering · Classification · Customer Analytics
+**Focus**
 
-[View Project](https://github.com/Nikita3005/Customer-Churn-Analytics)
+`Exploratory Data Analysis` • `Feature Engineering` • `Classification` • `Customer Analytics`
+
+[View Repository](https://github.com/Nikita3005/Customer-Churn-Analytics)
 
 ---
 
 ## Technical Toolkit
 
-<table>
-<tr>
-<td><b>Programming</b></td>
-<td>Python • SQL</td>
-</tr>
+### Programming & Data
 
-<tr>
-<td><b>Data</b></td>
-<td>Pandas • NumPy • Data Cleaning • ETL • Feature Engineering</td>
-</tr>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-<tr>
-<td><b>Machine Learning</b></td>
-<td>Scikit-learn • XGBoost • LightGBM • Model Evaluation</td>
-</tr>
+### Machine Learning
 
-<tr>
-<td><b>Explainability</b></td>
-<td>SHAP • Feature Analysis • Model Interpretation</td>
-</tr>
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-Machine_Learning-orange?style=flat-square" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-Machine_Learning-02569B?style=flat-square" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/SHAP-Explainability-8A2BE2?style=flat-square" alt="SHAP"/>
+</p>
 
-<tr>
-<td><b>ML Systems</b></td>
-<td>FastAPI • MLflow • Docker • REST APIs • Model Serving</td>
-</tr>
+### ML Systems & Engineering
 
-<tr>
-<td><b>Analytics</b></td>
-<td>Power BI • Excel • Exploratory Data Analysis • Data Visualization</td>
-</tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs"/>
+</p>
+
+### Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+</p>
 
 ---
 
@@ -166,85 +183,100 @@ Machine learning and analytics project examining customer behavior and factors a
 
 ```mermaid
 flowchart LR
-    A["Raw Data"] --> B["Validation"]
-    B --> C["Transformation"]
-    C --> D["Feature Engineering"]
-    D --> E["Modeling"]
-    E --> F["Evaluation"]
-    F --> G["Explainability"]
-    G --> H["Deployment / Analytics"]
-    H --> I["Decision Support"]
+    A[Raw Data] --> B[Validation]
+    B --> C[Transformation]
+    C --> D[Feature Engineering]
+    D --> E[Modeling]
+    E --> F[Evaluation]
+    F --> G[Explainability]
+    G --> H[Deployment]
+    H --> I[Decision Support]
 ```
 
-I am particularly interested in what happens **between a dataset and a decision**: how data quality affects models, how features encode assumptions, how models generalize, how predictions can be interpreted, and how systems behave once deployed.
+I am particularly interested in what happens **between a dataset and a decision**:
+
+* How does data quality affect downstream models?
+* How do features encode assumptions?
+* How reliably does a model generalize?
+* How should predictions be interpreted?
+* How should ML systems behave after deployment?
 
 ---
 
-## Areas I Want to Explore Further
+## Research & Academic Interests
 
-My current projects have led me toward questions that I would like to study more deeply:
+### Machine Learning & Statistical Learning
 
-**Machine Learning & Statistical Learning**
-How can we build models that generalize reliably while remaining interpretable?
+Understanding how predictive models generalize, how they should be evaluated, and how statistical reasoning can improve machine learning systems.
 
-**Data-Centric AI**
-How do data quality, representation, provenance, and feature construction influence downstream model behavior?
+### Data-Centric AI
 
-**Reliable ML Systems**
-How should models be evaluated, deployed, monitored, and maintained beyond the experimental stage?
+Studying how data quality, representation, provenance, labeling, and feature construction influence downstream model behavior.
 
-**Responsible & Secure AI**
-How can provenance, policy enforcement, and system-level safeguards improve the reliability of increasingly autonomous AI systems?
+### Explainable & Responsible AI
 
-**Applied Data Science**
-How can statistical and computational methods be translated into meaningful decisions in domains such as healthcare, finance, operations, and customer intelligence?
+Exploring methods for building machine learning systems that are interpretable, reliable, and aligned with their intended use.
+
+### Reliable ML Systems
+
+Understanding the complete lifecycle of machine learning systems, including experimentation, deployment, monitoring, reproducibility, and evaluation.
+
+### AI Agent Security
+
+Exploring provenance, policy enforcement, and runtime safeguards for increasingly autonomous AI systems.
 
 ---
 
 ## Engineering Approach
 
 ```text
-Understand the problem
+Understand the Problem
         ↓
-Inspect the data
+Inspect the Data
         ↓
-Question assumptions
+Question Assumptions
         ↓
-Build reproducible pipelines
+Build Reproducible Pipelines
         ↓
-Model & evaluate
+Model & Evaluate
         ↓
-Interpret the results
+Interpret Results
         ↓
-Deploy when appropriate
+Deploy When Appropriate
         ↓
-Measure what happens
+Measure Real-World Behavior
 ```
 
-I view data science as more than optimizing a metric.
+I view data science as more than optimizing a model metric.
 
-A useful solution should be **methodologically sound, reproducible, interpretable, and connected to the problem it is intended to solve**.
+A useful system should be **methodologically sound, reproducible, interpretable, and connected to the problem it is intended to solve**.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikita3005&show_icons=true&theme=github_dark&hide_border=true" alt="Nikita's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=github-compact&hide_border=true&hide_title=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=github-compact&hide_border=true&hide_title=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-## Beyond the Repository
+## Continuous Growth
 
-I use GitHub as a record of my progression from **analytics and programming fundamentals** toward increasingly complete **data science, machine learning, data engineering, and AI systems**.
+I use GitHub as a record of my progression from **programming and analytics fundamentals** toward increasingly complete work in **data science, machine learning, data engineering, and AI systems**.
 
-My goal is not simply to build more projects, but to continuously improve how I **formulate problems, work with data, evaluate evidence, design experiments, and build reliable computational systems**.
+My goal is not simply to build more projects, but to continuously improve how I:
+
+* formulate problems,
+* work with data,
+* evaluate evidence,
+* design experiments,
+* interpret models, and
+* build reliable computational systems.
 
 ---
 
@@ -253,7 +285,7 @@ My goal is not simply to build more projects, but to continuously improve how I 
 </p>
 
 <p align="center">
-  <i>Interested in building data-driven systems that are useful, interpretable, and reliable.</i>
+  <i>Building data-driven systems that are useful, interpretable, reproducible, and reliable.</i>
 </p>
 
 <p align="center">

@@ -1,208 +1,44 @@
-<div align="center">
-
 # Nikita Gajbhiye
 
-### Data Science · Machine Learning · Data Engineering
+**Data Science · Machine Learning · Data Engineering**
 
-**Building reliable data systems, interpretable machine learning models, and responsible AI systems.**
+I build data pipelines, machine learning systems, and tools that make AI behavior easier to evaluate and trust.
 
-<br>
+[Email](mailto:nikitagajbhiye.ng@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikita%20Gajbhiye-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nikita-gajbhiye-101782264)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:nikitagajbhiye.ng@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Nikita3005-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Nikita3005)
+## About me
 
-</div>
+I work across the data lifecycle: preparing and validating data, developing models, evaluating their behavior, and making results useful through APIs, dashboards, and clear documentation.
 
----
+My recent work focuses on two questions: how can we detect model degradation early, and how can AI agents handle untrusted information safely?
 
-## 👤 About
+## Featured projects
 
-I work at the intersection of **data science, machine learning, and data engineering**, with a focus on building systems that are reliable, interpretable, reproducible, and useful in practice.
+| Project | What it explores |
+| --- | --- |
+| **[TaintGate](https://github.com/Nikita3005/taintgate)** | A Python runtime guard for AI agent tool calls. It combines data provenance, detectors, and policy to **allow, review, or block** proposed actions before they execute. Includes a local attack regression suite and framework integrations. |
+| **[DriftForge](https://github.com/Nikita3005/DriftForge)** | A research benchmark for detecting synthetic-data-induced model degradation early. It compares drift signals across **495 controlled conditions** and reports both warning lead time and the limits of threshold transfer across datasets. |
+| **[Enterprise Customer Intelligence Platform](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)** | A modular ML project covering churn prediction, customer lifetime value, segmentation, SHAP explanations, MLflow experiment tracking, and FastAPI model serving. |
+| **[Supply Chain Risk Intelligence Platform](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)** | A Databricks project that takes shipment data through Bronze, Silver, and Gold layers to support delay prediction, vendor risk analysis, and operational dashboards. |
 
-My projects span the data lifecycle — from **data ingestion and validation** to **feature engineering, predictive modeling, explainability, and deployment**. More recently, I have been exploring **AI-agent security and data provenance**, particularly how untrusted information propagates through autonomous systems and how runtime policies can make those systems safer.
+## More work
 
----
+- **[HealthLynked Provider Pipeline](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)** — A hackathon prototype for detecting provider record changes and duplicates, scoring confidence, and routing uncertain updates for human review.
+- **[Fraud Detection & Risk Modeling](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)** — An analysis of highly imbalanced transaction data using logistic regression, random forests, and precision–recall evaluation.
+- **[Customer Churn Analytics](https://github.com/Nikita3005/Customer-Churn-Analytics)** — Customer behavior analysis, churn prediction, and a Power BI dashboard for communicating retention insights.
 
-## 🚀 Selected Work
+## Technical foundation
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **Programming:** Python, SQL
+- **Data engineering and analysis:** Pandas, NumPy, PySpark, ETL, data validation, feature engineering
+- **Machine learning:** scikit-learn, XGBoost, LightGBM, model evaluation
+- **ML systems:** FastAPI, MLflow, Docker, testing, model serving
+- **Analytics and communication:** Power BI, dashboards, data visualization, SHAP
 
-### 🛡️ TaintGate
+## Interests
 
-**Provenance-aware runtime security for AI agents**
-
-Explores how untrusted information can be tracked through agent workflows and incorporated into deterministic security decisions.
-
-`Python` `AI Agents` `MCP` `Provenance` `Policy`
-
-**Core idea**
-
-`input → provenance → policy → ALLOW / REVIEW / BLOCK`
-
-[Explore TaintGate →](https://github.com/Nikita3005/taintgate)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Enterprise Customer Intelligence
-
-**End-to-end machine learning system**
-
-Production-oriented ML project covering feature engineering, model comparison, explainability, experiment tracking, model serving, and testing.
-
-`Python` `XGBoost` `LightGBM` `SHAP` `MLflow` `FastAPI`
-
-**Pipeline**
-
-`features → models → evaluation → explanation → serving`
-
-[Explore the platform →](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌍 Supply Chain Risk Intelligence
-
-**Applied data science for operational risk**
-
-Transforms supply-chain and operational data into structured signals for risk analysis and decision support.
-
-`Data Science` `Feature Engineering` `Risk Analytics`
-
-**Pipeline**
-
-`operational data → risk signals → decision intelligence`
-
-[Explore the project →](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 HealthLynked Provider Pipeline
-
-**Healthcare data engineering pipeline**
-
-Focuses on ingestion, validation, transformation, and data-quality workflows for provider data.
-
-`Python` `ETL` `Validation` `Data Quality`
-
-**Pipeline**
-
-`ingestion → validation → transformation → trusted data`
-
-[Explore the pipeline →](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💳 Fraud Detection & Risk Modeling
-
-**Machine learning for predictive risk**
-
-Investigates patterns associated with fraudulent behavior and develops predictive models for risk estimation.
-
-`Classification` `Feature Engineering` `Model Evaluation`
-
-[Explore the project →](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 Customer Churn Analytics
-
-**Behavioral modeling and customer analytics**
-
-Examines customer behavior, develops predictive features, and models factors associated with churn.
-
-`EDA` `Classification` `Feature Engineering` `Analytics`
-
-[Explore the project →](https://github.com/Nikita3005/Customer-Churn-Analytics)
-
-</td>
-</tr>
-</table>
+Model reliability · Data quality · Explainable ML · Distribution shift · AI agent security · Data provenance
 
 ---
 
-## 🔬 Research & Technical Interests
-
-`Statistical Learning` · `Data-Centric ML` · `Explainable AI` · `ML Systems` · `Responsible AI` · `AI Agent Security`
-
-I am particularly interested in **model reliability, data quality, interpretability, provenance, and the behavior of machine learning systems beyond model training**.
-
----
-
-## 🧰 Technical Foundation
-
-<table>
-<tr>
-<td width="23%"><b>Programming</b></td>
-<td>Python · SQL</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>Pandas · NumPy · ETL · Data Validation · Feature Engineering</td>
-</tr>
-<tr>
-<td><b>Machine Learning</b></td>
-<td>Scikit-learn · XGBoost · LightGBM · Model Evaluation</td>
-</tr>
-<tr>
-<td><b>Explainability</b></td>
-<td>SHAP · Feature Analysis · Model Interpretation</td>
-</tr>
-<tr>
-<td><b>ML Engineering</b></td>
-<td>FastAPI · MLflow · Docker · REST APIs · Model Serving</td>
-</tr>
-<tr>
-<td><b>Analytics</b></td>
-<td>Power BI · Excel · Exploratory Data Analysis · Visualization</td>
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,fastapi,docker,git,github&theme=dark" alt="Core Technologies" />
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nikita3005&theme=github-compact&hide_border=true&hide_title=true&area=true"
-    width="95%"
-    alt="Nikita Gajbhiye GitHub Activity"
-  />
-</p>
-
----
-
-<div align="center">
-
-### Data Science · Machine Learning · Data Engineering
-
-*Building systems that turn data into reliable, interpretable, and useful intelligence.*
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264) ·
-[Email](mailto:nikitagajbhiye.ng@gmail.com) ·
-[GitHub](https://github.com/Nikita3005)
-
-</div>
+**Interested in discussing one of these projects?** [Get in touch by email](mailto:nikitagajbhiye.ng@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264).

@@ -1,20 +1,34 @@
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Nikita Gajbhiye — Data Science, Machine Learning, Data Engineering" width="100%">
+<div align="center">
+
+<h1>Nikita Gajbhiye</h1>
+
+<p><strong>Data Science · Machine Learning · Data Engineering</strong></p>
+
+<p>Four years of professional experience working with data and machine learning.<br>
+Building reliable systems and studying how models behave when data and operating conditions change.</p>
+
+<p>
+<a href="mailto:nikitagajbhiye.ng@gmail.com">Email</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Nikita3005">GitHub</a>
 </p>
 
-<p align="center">
-  <a href="mailto:nikitagajbhiye.ng@gmail.com">Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/Nikita3005">GitHub</a>
+<p>
+<kbd>Model reliability</kbd>&nbsp;
+<kbd>Data quality</kbd>&nbsp;
+<kbd>Explainable ML</kbd>&nbsp;
+<kbd>AI agent security</kbd>
 </p>
+
+</div>
 
 ## About
 
-I have four years of professional experience working with data and machine learning. My work spans data engineering, applied modeling, evaluation, explainability, and ML systems.
+I work across data engineering, applied machine learning, and ML systems: preparing and validating data, developing models, evaluating their limitations, and making results useful through APIs and analytics.
 
-I am preparing for graduate study in data science. My current interests center on **model reliability, distribution shift, data quality, and the security of AI-agent systems**.
+I am preparing for graduate study in data science. My recent projects focus on early detection of model degradation and on tracing untrusted information through AI-agent workflows.
 
 ## Research and systems
 
@@ -23,61 +37,79 @@ I am preparing for graduate study in data science. My current interests center o
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/taintgate">TaintGate</a></h3>
-<p><sub>AI AGENT SECURITY · PROVENANCE · PYTHON</sub></p>
-<p>A runtime guard that evaluates protected agent tool calls before execution. It combines input provenance, security findings, and deterministic policy to return <strong>ALLOW, REVIEW, or BLOCK</strong>.</p>
-<p><strong>In the repository:</strong> quickstart, framework and MCP integrations, and a local attack regression suite.</p>
-<p><a href="https://github.com/Nikita3005/taintgate">View project →</a></p>
+
+<p><strong>Provenance-aware security for AI agents</strong></p>
+
+<p>Evaluates protected tool calls before execution by combining input provenance, security findings, and deterministic policy.</p>
+
+<p><code>ALLOW</code> · <code>REVIEW</code> · <code>BLOCK</code></p>
+
+<p>Includes a local attack regression suite and integrations for agent frameworks and MCP.</p>
+
+<p><a href="https://github.com/Nikita3005/taintgate"><strong>Repository →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/DriftForge">DriftForge</a></h3>
-<p><sub>MODEL RELIABILITY · DISTRIBUTION SHIFT · EVALUATION</sub></p>
-<p>A benchmark asking whether drift signals can warn of synthetic-data-induced model degradation before accuracy visibly declines. It compares detectors across <strong>495 controlled conditions</strong>.</p>
-<p><strong>In the repository:</strong> benchmark results, cross-dataset evaluation, ablations, and documented limitations.</p>
-<p><a href="https://github.com/Nikita3005/DriftForge">View project →</a> · <a href="https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md">Technical report →</a></p>
+
+<p><strong>Early warning for model degradation</strong></p>
+
+<p>Tests whether statistical signals can warn of synthetic-data-induced degradation before aggregate accuracy declines, across <strong>495 controlled conditions</strong>.</p>
+
+<p>Reports warning lead time, cross-dataset evaluation, ablations, and limitations of threshold transfer.</p>
+
+<p><a href="https://github.com/Nikita3005/DriftForge"><strong>Repository →</strong></a> · <a href="https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md">Technical report →</a></p>
 
 </td>
 </tr>
 </table>
 
-## End-to-end ML and data engineering
+## Data and ML platforms
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform">Enterprise Customer Intelligence</a></h3>
-<p><sub>ML ENGINEERING · EXPLAINABILITY · MODEL SERVING</sub></p>
-<p>A modular system for churn prediction, customer lifetime value estimation, and segmentation, with SHAP explanations, MLflow tracking, FastAPI inference, automated tests, and CI.</p>
-<p><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform">View project →</a></p>
+
+<p><strong>From customer data to served predictions</strong></p>
+
+<p>A modular project for churn prediction, customer lifetime value, and segmentation. It connects feature engineering and evaluation with SHAP, MLflow, and FastAPI.</p>
+
+<p>Automated tests, CI, and Docker support are included in the repository.</p>
+
+<p><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform"><strong>Repository →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform">Supply Chain Risk Intelligence</a></h3>
-<p><sub>DATA ENGINEERING · RISK ANALYTICS · DATABRICKS</sub></p>
-<p>A Bronze–Silver–Gold shipment data workflow supporting delay prediction, vendor risk analysis, experiment tracking, and a Databricks SQL dashboard.</p>
-<p><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform">View project →</a></p>
+
+<p><strong>From shipment records to operational risk signals</strong></p>
+
+<p>A Databricks workflow using Bronze, Silver, and Gold data layers to support delay prediction and vendor risk analysis.</p>
+
+<p>Results are presented through SQL analytics and an interactive dashboard.</p>
+
+<p><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform"><strong>Repository →</strong></a></p>
 
 </td>
 </tr>
 </table>
 
-## Additional work
+## Applied projects
 
-- **[HealthLynked Provider Pipeline](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)** — A hackathon prototype for provider record validation, duplicate detection, confidence scoring, audit trails, and human review.
-- **[Fraud Detection & Risk Modeling](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)** — Fraud classification on highly imbalanced transaction data, emphasizing precision–recall evaluation and decision thresholds.
-- **[Customer Churn Analytics](https://github.com/Nikita3005/Customer-Churn-Analytics)** — Behavioral analysis, churn prediction, and a Power BI dashboard for communicating findings.
+- **[HealthLynked Provider Pipeline](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)** — A hackathon prototype for detecting provider record changes and duplicates, assigning confidence scores, maintaining audit trails, and routing uncertain updates for human review.
+- **[Fraud Detection & Risk Modeling](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)** — Classification on highly imbalanced transaction data, emphasizing precision–recall evaluation and the trade-off between missed fraud and false alarms.
+- **[Customer Churn Analytics](https://github.com/Nikita3005/Customer-Churn-Analytics)** — Customer behavior analysis and churn prediction, with findings communicated through a Power BI dashboard.
 
-## Methods and tools
+## Research interests
 
-**Data:** Python · SQL · Pandas · NumPy · PySpark · ETL · Data validation  
-**Machine learning:** Scikit-learn · XGBoost · LightGBM · Model evaluation · SHAP  
-**Systems and analytics:** FastAPI · MLflow · Docker · Databricks · Power BI
+My interests include distribution shift, reproducible model evaluation, data-centric ML, interpretability, and security boundaries for AI agents. I am particularly interested in systems that make uncertainty and failure modes visible to the people relying on their outputs.
 
-<p align="center">
-  <a href="mailto:nikitagajbhiye.ng@gmail.com">Contact</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a>
-</p>
+## Technical foundation
+
+**Data and programming:** Python · SQL · Pandas · NumPy · PySpark · ETL · Data validation  
+**Machine learning:** Scikit-learn · XGBoost · LightGBM · Feature engineering · Model evaluation  
+**Systems and analytics:** FastAPI · MLflow · Docker · SHAP · Databricks SQL · Power BI

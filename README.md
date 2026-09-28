@@ -1,115 +1,95 @@
 <div align="center">
 
-<h1>Nikita Gajbhiye</h1>
+# Nikita Gajbhiye
 
-<p><strong>Data Science · Machine Learning · Data Engineering</strong></p>
+**Data Science · Machine Learning · Data Engineering**
 
-<p>Four years of professional experience working with data and machine learning.<br>
-Building reliable systems and studying how models behave when data and operating conditions change.</p>
+Four years of professional experience working with data and machine learning
 
-<p>
-<a href="mailto:nikitagajbhiye.ng@gmail.com">Email</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nikita-gajbhiye-101782264">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Nikita3005">GitHub</a>
-</p>
-
-<p>
-<kbd>Model reliability</kbd>&nbsp;
-<kbd>Data quality</kbd>&nbsp;
-<kbd>Explainable ML</kbd>&nbsp;
-<kbd>AI agent security</kbd>
-</p>
+[Email](mailto:nikitagajbhiye.ng@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264)
 
 </div>
 
-## About
+---
 
-I work across data engineering, applied machine learning, and ML systems: preparing and validating data, developing models, evaluating their limitations, and making results useful through APIs and analytics.
+## 01 / Research statement
 
-I am preparing for graduate study in data science. My recent projects focus on early detection of model degradation and on tracing untrusted information through AI-agent workflows.
+I work on data and machine learning systems with an emphasis on **reliability, interpretability, and evaluation**. My projects span data preparation, predictive modeling, experiment tracking, and the behavior of systems after a model is trained.
 
-## Research and systems
+I am preparing for graduate study in data science. Two questions currently guide my independent work: **Can we recognize model degradation early enough to act?** And **how can AI agents use untrusted information without allowing it to direct their actions?**
+
+## 02 / Selected research and systems
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/taintgate">TaintGate</a></h3>
+<p><em>Provenance-aware security for AI agents</em></p>
 
-<p><strong>Provenance-aware security for AI agents</strong></p>
+<p><strong>Problem.</strong> An agent may encounter instructions in untrusted content before making a consequential tool call.</p>
 
-<p>Evaluates protected tool calls before execution by combining input provenance, security findings, and deterministic policy.</p>
+<p><strong>Approach.</strong> Track input provenance and evaluate protected tool calls with detectors and deterministic policy: <code>ALLOW</code>, <code>REVIEW</code>, or <code>BLOCK</code>.</p>
 
-<p><code>ALLOW</code> · <code>REVIEW</code> · <code>BLOCK</code></p>
+<p><strong>Artifact.</strong> Python library, framework and MCP integrations, quickstart examples, and a local regression suite using synthetic attack scenarios.</p>
 
-<p>Includes a local attack regression suite and integrations for agent frameworks and MCP.</p>
-
-<p><a href="https://github.com/Nikita3005/taintgate"><strong>Repository →</strong></a></p>
+<p><a href="https://github.com/Nikita3005/taintgate">Code and documentation →</a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/Nikita3005/DriftForge">DriftForge</a></h3>
+<p><em>Early warning for model degradation</em></p>
 
-<p><strong>Early warning for model degradation</strong></p>
+<p><strong>Question.</strong> Can statistical signals warn of synthetic-data-induced degradation before aggregate model accuracy substantially falls?</p>
 
-<p>Tests whether statistical signals can warn of synthetic-data-induced degradation before aggregate accuracy declines, across <strong>495 controlled conditions</strong>.</p>
+<p><strong>Approach.</strong> Compare drift detectors across <strong>495 controlled conditions</strong>, measuring both degradation discrimination and warning lead time.</p>
 
-<p>Reports warning lead time, cross-dataset evaluation, ablations, and limitations of threshold transfer.</p>
+<p><strong>Finding.</strong> The evaluated methods show a trade-off between conventional discrimination and warning timing. Threshold transfer across datasets remains unstable.</p>
 
-<p><a href="https://github.com/Nikita3005/DriftForge"><strong>Repository →</strong></a> · <a href="https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md">Technical report →</a></p>
-
-</td>
-</tr>
-</table>
-
-## Data and ML platforms
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform">Enterprise Customer Intelligence</a></h3>
-
-<p><strong>From customer data to served predictions</strong></p>
-
-<p>A modular project for churn prediction, customer lifetime value, and segmentation. It connects feature engineering and evaluation with SHAP, MLflow, and FastAPI.</p>
-
-<p>Automated tests, CI, and Docker support are included in the repository.</p>
-
-<p><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform"><strong>Repository →</strong></a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform">Supply Chain Risk Intelligence</a></h3>
-
-<p><strong>From shipment records to operational risk signals</strong></p>
-
-<p>A Databricks workflow using Bronze, Silver, and Gold data layers to support delay prediction and vendor risk analysis.</p>
-
-<p>Results are presented through SQL analytics and an interactive dashboard.</p>
-
-<p><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform"><strong>Repository →</strong></a></p>
+<p><a href="https://github.com/Nikita3005/DriftForge">Code and results →</a> · <a href="https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md">Technical report →</a></p>
 
 </td>
 </tr>
 </table>
 
-## Applied projects
+### Benchmark excerpt: DriftForge
 
-- **[HealthLynked Provider Pipeline](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)** — A hackathon prototype for detecting provider record changes and duplicates, assigning confidence scores, maintaining audit trails, and routing uncertain updates for human review.
-- **[Fraud Detection & Risk Modeling](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)** — Classification on highly imbalanced transaction data, emphasizing precision–recall evaluation and the trade-off between missed fraud and false alarms.
-- **[Customer Churn Analytics](https://github.com/Nikita3005/Customer-Churn-Analytics)** — Customer behavior analysis and churn prediction, with findings communicated through a Power BI dashboard.
+| Detector | ROC-AUC | Mean warning lead time |
+| --- | ---: | ---: |
+| Jensen–Shannon divergence | 0.907 | −0.089 |
+| Wasserstein distance | 0.891 | −0.092 |
+| DriftForge | 0.831 | +0.319 |
 
-## Research interests
+Positive lead time indicates that the first warning preceded the project-defined accuracy-drop point. These are results from a **controlled benchmark**, not a claim of general performance on real-world deployment data. See the [methodology and limitations](https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md).
 
-My interests include distribution shift, reproducible model evaluation, data-centric ML, interpretability, and security boundaries for AI agents. I am particularly interested in systems that make uncertainty and failure modes visible to the people relying on their outputs.
+## 03 / Applied ML and data engineering
 
-## Technical foundation
+| Project | System and contribution |
+| --- | --- |
+| **[Enterprise Customer Intelligence](https://github.com/Nikita3005/enterprise-customer-intelligence-platform)** | Modular workflows for churn prediction, customer lifetime value estimation, and segmentation, with SHAP explanations, MLflow tracking, FastAPI inference, automated tests, and CI. |
+| **[Supply Chain Risk Intelligence](https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform)** | A Databricks Bronze–Silver–Gold pipeline supporting shipment delay prediction, vendor risk analysis, and SQL dashboards. |
+| **[HealthLynked Provider Pipeline](https://github.com/Nikita3005/HealthLynked-Provider-Pipeline)** | Hackathon prototype for provider record change and duplicate detection, confidence scoring, audit trails, and human review. |
+| **[Fraud Detection & Risk Modeling](https://github.com/Nikita3005/Fraud-Detection-Risk-Modeling)** | Classification of highly imbalanced transaction data, emphasizing precision–recall evaluation and decision thresholds. |
+| **[Customer Churn Analytics](https://github.com/Nikita3005/Customer-Churn-Analytics)** | Customer behavior analysis and churn modeling, with findings communicated through a Power BI dashboard. |
 
-**Data and programming:** Python · SQL · Pandas · NumPy · PySpark · ETL · Data validation  
-**Machine learning:** Scikit-learn · XGBoost · LightGBM · Feature engineering · Model evaluation  
-**Systems and analytics:** FastAPI · MLflow · Docker · SHAP · Databricks SQL · Power BI
+## 04 / Research interests
+
+- Distribution shift and early-warning model monitoring
+- Reproducible evaluation and data-centric machine learning
+- Model interpretation and decision-relevant metrics
+- Data provenance and security boundaries in AI-agent systems
+
+## 05 / Technical foundation
+
+**Programming and data:** Python · SQL · Pandas · NumPy · PySpark · ETL · Data validation  
+**Modeling and evaluation:** Scikit-learn · XGBoost · LightGBM · Feature engineering · SHAP  
+**Systems and analytics:** FastAPI · MLflow · Docker · Databricks SQL · Power BI
+
+---
+
+<div align="center">
+
+[Email](mailto:nikitagajbhiye.ng@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nikita-gajbhiye-101782264) · [GitHub](https://github.com/Nikita3005)
+
+</div>

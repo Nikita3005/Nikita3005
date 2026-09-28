@@ -50,17 +50,25 @@
         <img src="https://img.shields.io/badge/AI_AGENT_SECURITY-7546A6?style=flat-square" alt="AI agent security">
         <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square" alt="Python">
       </p>
-      <p>A provenance-aware runtime guard for protected agent tool calls. It combines security findings with deterministic policy to return <code>ALLOW</code>, <code>REVIEW</code>, or <code>BLOCK</code> before execution.</p>
+      <p>A runtime guard that evaluates protected AI agent tool calls before execution.</p>
+      <p><strong>Method:</strong> Tracks input provenance, evaluates security findings, and applies deterministic policy to return <code>ALLOW</code>, <code>REVIEW</code>, or <code>BLOCK</code>.</p>
+      <p><strong>Validation:</strong> A local regression suite checks expected decisions across 12 included attack scenarios. The repository also includes framework and MCP integrations.</p>
       <p><a href="https://github.com/Nikita3005/taintgate"><strong>Code and attack suite →</strong></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📉 <a href="https://github.com/Nikita3005/DriftForge">DriftForge</a></h3>
       <p>
         <img src="https://img.shields.io/badge/MODEL_MONITORING-4169E1?style=flat-square" alt="Model monitoring">
-        <img src="https://img.shields.io/badge/EVALUATION-315B91?style=flat-square" alt="Evaluation">
+        <img src="https://img.shields.io/badge/EXPERIMENTAL_EVALUATION-315B91?style=flat-square" alt="Experimental evaluation">
       </p>
-      <p>A benchmark for detecting synthetic-data-induced model degradation early. It compares drift signals across <strong>495 controlled conditions</strong>, including warning lead time and threshold transfer across datasets.</p>
-      <p><a href="https://github.com/Nikita3005/DriftForge"><strong>Benchmark and findings →</strong></a></p>
+      <p>A benchmark investigating early warnings of synthetic-data-induced model degradation.</p>
+      <p><strong>Design:</strong> 3 datasets × 3 mechanisms × 5 seeds × 11 levels = <strong>495 controlled conditions</strong>.</p>
+      <p><strong>Evaluation:</strong> Compares drift signals using discrimination and warning lead time, and examines whether thresholds transfer across datasets.</p>
+      <p>
+        <a href="https://github.com/Nikita3005/DriftForge"><strong>Code →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/Nikita3005/DriftForge/blob/main/TECHNICAL_REPORT.md"><strong>Technical report →</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -70,7 +78,8 @@
         <img src="https://img.shields.io/badge/APPLIED_ML-187F86?style=flat-square" alt="Applied ML">
         <img src="https://img.shields.io/badge/MODEL_SERVING-317873?style=flat-square" alt="Model serving">
       </p>
-      <p>A customer ML platform spanning churn prediction, lifetime value, segmentation, SHAP explanations, MLflow experiment tracking, and FastAPI serving.</p>
+      <p>A modular customer ML platform covering churn prediction, lifetime value, and segmentation.</p>
+      <p><strong>System:</strong> Feature engineering and model evaluation connect to SHAP explanations, MLflow experiment tracking, and FastAPI serving, with automated tests and CI.</p>
       <p><a href="https://github.com/Nikita3005/enterprise-customer-intelligence-platform"><strong>Models and system design →</strong></a></p>
     </td>
     <td width="50%" valign="top">
@@ -79,7 +88,8 @@
         <img src="https://img.shields.io/badge/DATA_PLATFORM-C46738?style=flat-square" alt="Data platform">
         <img src="https://img.shields.io/badge/DATABRICKS-963F36?style=flat-square" alt="Databricks">
       </p>
-      <p>A shipment data platform organized into Bronze, Silver, and Gold layers, supporting delay prediction, vendor risk analysis, and operational dashboards.</p>
+      <p>A shipment data platform for operational risk analysis.</p>
+      <p><strong>Architecture:</strong> Databricks Bronze, Silver, and Gold layers prepare shipment data for delay prediction, vendor risk analysis, and SQL dashboards.</p>
       <p><a href="https://github.com/Nikita3005/Global-Supply-Chain-Risk-Intelligence-Platform"><strong>Pipeline and analytics →</strong></a></p>
     </td>
   </tr>
